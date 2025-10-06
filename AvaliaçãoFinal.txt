@@ -1,0 +1,45 @@
+📊 Executando avaliação final no conjunto de validação...
+
+Resultados das Métricas Finais:
+- eval_loss: 2.4369
+- eval_accuracy: 0.3367
+- eval_f1: 0.3600
+- eval_runtime: 87.2481
+- eval_samples_per_second: 3185.5040
+- eval_steps_per_second: 2.2690
+- epoch: 6.0759
+
+🔎 Gerando previsões para análise detalhada...
+
+📊 Relatório de Classificação (por classe):
+              precision    recall  f1-score   support
+
+    Classe 0      0.772     0.521     0.622     90808
+    Classe 1      0.273     0.254     0.263     25898
+    Classe 2      0.338     0.169     0.225     25543
+    Classe 3      0.311     0.376     0.340     15521
+    Classe 4      0.178     0.292     0.221      9766
+    Classe 5      0.226     0.219     0.222     14515
+    Classe 6      0.145     0.226     0.176      9744
+    Classe 7      0.281     0.136     0.183     12623
+    Classe 8      0.245     0.192     0.215     10259
+    Classe 9      0.263     0.246     0.254      8608
+   Classe 10      0.270     0.128     0.174     10724
+   Classe 11      0.534     0.225     0.316     11013
+   Classe 12      0.248     0.856     0.384      2466
+   Classe 13      0.131     0.430     0.201      5665
+   Classe 14      0.119     0.331     0.175      3973
+   Classe 15      0.146     0.284     0.193      3710
+   Classe 16      0.138     0.213     0.168      2904
+   Classe 17      0.120     0.224     0.156      2420
+   Classe 18      0.071     0.286     0.114      2161
+   Classe 19      0.116     0.283     0.165      2071
+   Classe 20      0.136     0.228     0.170      1784
+   Classe 21      0.131     0.317     0.185      1675
+   Classe 22      0.269     0.339     0.300      1971
+   Classe 23      0.129     0.390     0.194      1415
+   Classe 24      0.137     0.377     0.201       692
+
+    accuracy                          0.337    277929
+   macro avg      0.229     0.302     0.233    277929
+weighted avg      0.428     0.337     0.360    277929
